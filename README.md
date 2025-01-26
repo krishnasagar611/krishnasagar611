@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sagarkumarrath4" target="blank"><img src="https://img.shields.io/twitter/follow/@sagarkumarrath4?logo=twitter&style=for-the-badge" alt="@sagarkumarrath4" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m a developer with 2.5 yr experince in  **Reactjs**  **Nextjs**
 
 - 💬 Ask me about **HTML5,CSS3,Javascript,ReactJs,MongoDB,Nodejs**
 
